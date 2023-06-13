@@ -6,7 +6,6 @@
 
   <groupId>com.viswa2</groupId>
   <artifactId>webAppViswa2</artifactId>
-  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
   <name>webAppViswa2</name>
